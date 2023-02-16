@@ -11,8 +11,8 @@ const Header = () => {
 
   return (
     <>
-      <header className="fixed top-0 left-0 right-0 w-full h-16 xl:px-52 lg:px-24 stick z-[9999]">
-        <div className="bg-white h-full flex justify-between items-center border-b-2 relative">
+      <header className="fixed top-0 left-0 right-0 stick z-[9999]">
+        <div className="bg-white h-full flex justify-between items-center border-b-2 w-full h-16 xl:px-52 lg:px-24 relative">
           {/* Logo */}
           <div className="h-full p-4">
             <h2 className="font-extrabold text-[24px] lg:text-[30px] text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500">
