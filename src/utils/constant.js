@@ -34,7 +34,7 @@ export const projects = [
   {
     id: 3,
     name: "Manage",
-    desc: "A challenge on frontendmentor",
+    desc: "A challenge on frontendmentor - business's landing page",
     tech: ["ReactJS", "TailwindCSS"],
     icons: [reactImg, tailwindImg],
     url: "https://main--tailwind-manage-practice.netlify.app/",
