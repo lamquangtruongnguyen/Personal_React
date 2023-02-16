@@ -57,7 +57,7 @@ const Header = () => {
           </div>
           {/* Mobile nav */}
           {openNav && (
-            <ul className="block md:hidden w-[100vw] absolute top-16 font-medium xl:text-[20px] bg-white border-b-2 py-3 z-[9999]">
+            <ul className="block md:hidden w-[100vw] absolute top-16 font-medium xl:text-[20px] bg-white border-y-2 py-3 z-[9999]">
               {navItems.map(item => (
                 <li
                   key={item.id}
