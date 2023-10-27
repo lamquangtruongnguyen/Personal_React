@@ -28,7 +28,7 @@ const Hero = () => {
         <div className="w-full flex justify-center gap-x-8 mt-4">
           <Button bgColor="bg-green-300" custom="block">
             <a
-              href="https://drive.google.com/file/d/1Z3-uKexpP9d-xH_D3yV3s4QsX8qBz1tj/view"
+              href="https://drive.google.com/file/d/1rYIXCnXiRLFrCfw1lph-TCdT2HRrvhMR/view"
               target="_blank"
               rel="noreferrer"
             >
